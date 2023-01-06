@@ -9,7 +9,7 @@ Config files for Docker compose, including :
 
 
 
-Also includes .make file for easy console management. Here's the commands :
+Also includes .make file for easy console management, more details inside the file . Here's the commands :
 
     make reset : Restart Docker-Compose
     make tty : Open bash commands
