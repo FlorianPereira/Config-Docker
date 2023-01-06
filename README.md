@@ -16,7 +16,7 @@ Also includes .make file for easy console management. Here's the commands :
     make start : Start Docker-Compose
     make stop : Stop Docker-Compose
 
-Usefull url :
+Useful url :
 
 PHP URL :    http://localhost:8080/public/NomDeLaPage
 
